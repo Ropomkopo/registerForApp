@@ -1,1 +1,1 @@
-# registerForApp
+# register
